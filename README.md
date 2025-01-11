@@ -16,7 +16,3 @@ yum update && yum -y install curl wget tar socat net-tools jq git openssl util-l
 ```bash
 bash <(curl https://raw.githubusercontent.com/sw19999/singbox/main/singbox.sh)
 ```
-或者
-```
-bash <(curl https://raw.githubusercontent.com/Optrex-ActiMist/singbox/main/singbox.sh)
-```
